@@ -1,0 +1,2 @@
+# CodeAlpha_Educational_performance_And_Resource_Allocation
+Power BI Dashboard for Educational Performance and Resource Allocation
